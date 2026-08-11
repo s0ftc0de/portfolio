@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
+
+# Local development configuration
+appsettings.Development.json

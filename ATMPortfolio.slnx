@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ATM.api/ATM.api.csproj" />
+  <Project Path="ATM/ATM.web.csproj" />
+</Solution>

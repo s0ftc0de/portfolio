@@ -1,0 +1,48 @@
+﻿@model ATM.web.Models.WithdrawViewModel
+
+@{
+    ViewData["Title"] = "Withdraw";
+}
+
+<h2>Withdraw Money</h2>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
+}
+
+<form asp-controller="ATM"
+      asp-action="Withdraw"
+      method="post">
+
+    <div class="mb-3">
+        <label asp-for="AccountNumber"
+               class="form-label">
+            Account Number
+        </label>
+
+        <input asp-for="AccountNumber"
+               class="form-control"
+               placeholder="Enter account number" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Amount"
+               class="form-label">
+            Amount
+        </label>
+
+        <input asp-for="Amount"
+               class="form-control"
+               type="number"
+               min="1"
+               placeholder="Enter amount" />
+    </div>
+
+    <button type="submit"
+            class="btn btn-primary">
+        Withdraw
+    </button>
+</form>

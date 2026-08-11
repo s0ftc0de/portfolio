@@ -1,0 +1,63 @@
+﻿@model List<ATM.web.Models.WithdrawalHistoryViewModel>?
+
+@{
+    ViewData["Title"] = "Withdrawal History";
+}
+
+<h2>Withdrawal History</h2>
+
+<form asp-controller="ATM"
+      asp-action="History"
+      method="post"
+      class="mb-4">
+
+    <div class="mb-3">
+        <label class="form-label">Account Number</label>
+
+        <input type="text"
+               name="accountNumber"
+               class="form-control"
+               value="@ViewBag.AccountNumber"
+               placeholder="Enter account number" />
+    </div>
+
+    <button type="submit"
+            class="btn btn-primary">
+        Show History
+    </button>
+</form>
+
+@if (Model != null)
+{
+    if (Model.Count == 0)
+    {
+        <div class="alert alert-info">
+            No withdrawal history found.
+        </div>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Withdraw Amount</th>
+                    <th>Current Balance</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Amount.ToString("N0") MMK</td>
+                        <td>@item.BalanceAfter.ToString("N0") MMK</td>
+                        <td>@item.WithdrawnAt.ToLocalTime()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}

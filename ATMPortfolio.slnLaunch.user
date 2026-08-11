@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "portfolio",
+    "Projects": [
+      {
+        "Path": "ATM.api\\ATM.api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ATM\\ATM.web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

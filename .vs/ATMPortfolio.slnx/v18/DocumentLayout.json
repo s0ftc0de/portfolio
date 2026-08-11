@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grace\\source\\repos\\Protfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\views\\atm\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\views\\atm\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\controllers\\atmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\controllers\\atmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\services\\accountapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\services\\accountapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\models\\withdrawresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\models\\withdrawresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm.api\\controllers\\withdrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|solutionrelative:atm.api\\controllers\\withdrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\views\\atm\\withdraw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\views\\atm\\withdraw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\models\\withdrawviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\models\\withdrawviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Migrations\\20260811065605_AddWithdrawalHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ATM.api\\Migrations\\20260811065605_AddWithdrawalHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|solutionrelative:atm.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm.api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|solutionrelative:atm.api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm.api\\models\\withdrawalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|solutionrelative:atm.api\\models\\withdrawalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\views\\atm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\views\\atm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF749E1E-4CB6-1834-A601-F0AE921BB438}|ATM\\ATM.web.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|solutionrelative:atm.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm.api\\atm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|solutionrelative:atm.api\\atm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|solutionrelative:atm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|c:\\users\\grace\\source\\repos\\protfolio\\atm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48AC68C5-8A3D-F862-D00C-0E5677849E5D}|ATM.api\\ATM.api.csproj|solutionrelative:atm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Views\\ATM\\History.cshtml",
+              "RelativeDocumentMoniker": "ATM\\Views\\ATM\\History.cshtml",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Views\\ATM\\History.cshtml",
+              "RelativeToolTip": "ATM\\Views\\ATM\\History.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAtwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T07:22:41.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Services\\AccountApiService.cs",
+              "RelativeDocumentMoniker": "ATM\\Services\\AccountApiService.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Services\\AccountApiService.cs",
+              "RelativeToolTip": "ATM\\Services\\AccountApiService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T03:55:04.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ATM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ATM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T05:31:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATMController.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Controllers\\ATMController.cs",
+              "RelativeDocumentMoniker": "ATM\\Controllers\\ATMController.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Controllers\\ATMController.cs",
+              "RelativeToolTip": "ATM\\Controllers\\ATMController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T04:10:24.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WithdrawResponseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Models\\WithdrawResponseViewModel.cs",
+              "RelativeDocumentMoniker": "ATM\\Models\\WithdrawResponseViewModel.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Models\\WithdrawResponseViewModel.cs",
+              "RelativeToolTip": "ATM\\Models\\WithdrawResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T07:20:19.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WithdrawController.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Controllers\\WithdrawController.cs",
+              "RelativeDocumentMoniker": "ATM.api\\Controllers\\WithdrawController.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Controllers\\WithdrawController.cs",
+              "RelativeToolTip": "ATM.api\\Controllers\\WithdrawController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T06:57:15.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Withdraw.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Views\\ATM\\Withdraw.cshtml",
+              "RelativeDocumentMoniker": "ATM\\Views\\ATM\\Withdraw.cshtml",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Views\\ATM\\Withdraw.cshtml",
+              "RelativeToolTip": "ATM\\Views\\ATM\\Withdraw.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwC8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T07:09:05.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WithdrawViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Models\\WithdrawViewModel.cs",
+              "RelativeDocumentMoniker": "ATM\\Models\\WithdrawViewModel.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Models\\WithdrawViewModel.cs",
+              "RelativeToolTip": "ATM\\Models\\WithdrawViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T07:00:23.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WithdrawalHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Models\\WithdrawalHistory.cs",
+              "RelativeDocumentMoniker": "ATM.api\\Models\\WithdrawalHistory.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Models\\WithdrawalHistory.cs",
+              "RelativeToolTip": "ATM.api\\Models\\WithdrawalHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T06:52:54.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260811065605_AddWithdrawalHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Migrations\\20260811065605_AddWithdrawalHistory.cs",
+              "RelativeDocumentMoniker": "ATM.api\\Migrations\\20260811065605_AddWithdrawalHistory.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Migrations\\20260811065605_AddWithdrawalHistory.cs",
+              "RelativeToolTip": "ATM.api\\Migrations\\20260811065605_AddWithdrawalHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T06:56:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Views\\ATM\\Index.cshtml",
+              "RelativeDocumentMoniker": "ATM\\Views\\ATM\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Views\\ATM\\Index.cshtml",
+              "RelativeToolTip": "ATM\\Views\\ATM\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T04:14:52.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ATM.api\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Models\\Account.cs",
+              "RelativeToolTip": "ATM.api\\Models\\Account.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T08:50:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ATM.api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ATM.api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T09:48:06.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Program.cs",
+              "RelativeDocumentMoniker": "ATM\\Program.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM\\Program.cs",
+              "RelativeToolTip": "ATM\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T04:03:07.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "ATM.api\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "ATM.api\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T11:03:56.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ATM.api.csproj",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\ATM.api.csproj",
+              "RelativeDocumentMoniker": "ATM.api\\ATM.api.csproj",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\ATM.api.csproj",
+              "RelativeToolTip": "ATM.api\\ATM.api.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-10T10:51:03.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Program.cs",
+              "RelativeDocumentMoniker": "ATM.api\\Program.cs",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\Program.cs",
+              "RelativeToolTip": "ATM.api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T09:55:33.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\appsettings.json",
+              "RelativeDocumentMoniker": "ATM.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Grace\\source\\repos\\Protfolio\\ATM.api\\appsettings.json",
+              "RelativeToolTip": "ATM.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-10T09:51:38.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

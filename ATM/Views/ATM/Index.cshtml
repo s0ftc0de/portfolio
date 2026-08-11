@@ -1,0 +1,30 @@
+﻿@model List<ATM.web.Models.AccountViewModel>
+
+<h2>All Accounts</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Account Number</th>
+            <th>Holder Name</th>
+            <th>Balance</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var account in Model)
+        {
+            <tr>
+                <td>@account.Id</td>
+                <td>@account.AccountNumber</td>
+                <td>@account.HolderName</td>
+                <td>@account.Balance.ToString("N0") MMK</td>
+                <td>
+                    @(account.IsActive ? "Active" : "Inactive")
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
